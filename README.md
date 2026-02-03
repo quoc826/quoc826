@@ -56,11 +56,10 @@
 ### 🤝 Connect with me
 
 <p align="left">
-<a href="https://dev.to/qani" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="qani" height="30" width="40" /></a>
-<a href="https://twitter.com/qani" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qani" height="30" width="40" /></a>
-<a href="https://fb.com/quốc trần" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quốc trần" height="30" width="40" /></a>
-<a href="https://instagram.com/quốc trần" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quốc trần" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/qani" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qani" height="30" width="40" /></a>
+<a href="https://x.com/quoctran012310" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quoctran012310" height="30" width="40" /></a>
+<a href="https://www.facebook.com/quoc.tran0987" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quoc.tran0987" height="30" width="40" /></a>
+<a href="https://www.instagram.com/quoctran0900/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quoctran0900" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Lussixuss" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Lussixuss" height="30" width="40" /></a>
 </p>
 
 <p align="center">
