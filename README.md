@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Qani 👋</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=qani&label=Profile%20views&color=0e75b6&style=flat-square" alt="qani" />
-  <a href="https://twitter.com/qani" target="blank"><img src="https://img.shields.io/twitter/follow/qani?logo=twitter&style=flat-square&color=1DA1F2" alt="qani" /></a>
+  <a href="https://twitter.com/qani" target="_blank"><img src="https://img.shields.io/twitter/follow/qani?logo=twitter&style=flat-square&color=1DA1F2" alt="qani" /></a>
 </p>
 
 <p align="center">
@@ -56,10 +56,10 @@
 ### 🤝 Connect with me
 
 <p align="left">
-<a href="https://x.com/quoctran012310" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quoctran012310" height="30" width="40" /></a>
-<a href="https://www.facebook.com/quoc.tran0987" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quoc.tran0987" height="30" width="40" /></a>
-<a href="https://www.instagram.com/quoctran0900/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quoctran0900" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Lussixuss" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Lussixuss" height="30" width="40" /></a>
+<a href="https://x.com/quoctran012310" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quoctran012310" height="30" width="40" /></a>
+<a href="https://www.facebook.com/quoc.tran0987" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quoc.tran0987" height="30" width="40" /></a>
+<a href="https://www.instagram.com/quoctran0900/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quoctran0900" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Lussixuss" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Lussixuss" height="30" width="40" /></a>
 </p>
 
 <p align="center">
